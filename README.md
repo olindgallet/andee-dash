@@ -7,6 +7,7 @@ As of (8/12/2014) to do:
 * Do something with the email parameter
 * Add a server error page
 * Add Hitbox site support
+* Allow users to modify/delete profile
 
 =====
 If you want to try it out, you have to set variables in the following files:
