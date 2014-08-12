@@ -1,7 +1,7 @@
 andee-dash
 ==========
 
-To do:
+As of (8/12/2014) to do:
 * Fix PHP bot so it pongs back
 * Modularize bot commands for the sake of adding/removing commands (started in 'commands' folder)
 * Do something with the email parameter
